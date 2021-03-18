@@ -4,4 +4,6 @@
 ![hw2 sc2](https://user-images.githubusercontent.com/78495603/111566747-1d274100-8774-11eb-980c-659233eba6c4.png)
 ![hw2 sc3](https://user-images.githubusercontent.com/78495603/111566753-1ef10480-8774-11eb-91ac-946e90813fc4.png)
 
+https://nicog124.github.io/portfolio-hw2/
 
+this hw assignment was difficult as I couldn't get my images to work within flexbox but other than that I enjoyed it and felt comfortable with the material.
